@@ -8,7 +8,8 @@ We took our dataset from Kaggle we have the data of 251503 people, which was div
 
 We created a hybrid model using Random Forest, Logistic Regression, AdaBoosting, MultiLayer Perceptron and trained each of these models on our dataset and used maximum voting technique to obtain the final predictions.
 
-Validation Accuracy for Hybrid Model - 0.99577
+Validation Accuracy for Hybrid Model -  `0.99577`
+
 Testing Accuracy for Hybrid Model - 0.99572
 
 <img width="922" alt="image" src="https://github.com/AshwinSheoran02/ML-Project-Group-25/assets/88393756/c7bf4fb4-21c1-4fa8-8289-9046ace9f7bc">
