@@ -1,4 +1,5 @@
-# ML-Project-Group-28
+# Automated Financial Distress Predictor
+
 
 Credit scoring algorithms, which guess the probability of default, are the methods banks use to determine whether or not a loan should be granted. This model helps to improve the state of the art in credit scoring by predicting that someone will experience financial distress in the next two years.
 
